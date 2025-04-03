@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carshering", "Dz_6.03\Carshering.csproj", "{8E79005C-00C6-4E60-9B48-A8FB5E10300F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Новая папка1", "Новая папка1", "{B05A5F50-73B0-46D2-A4C6-91A3709BD592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E79005C-00C6-4E60-9B48-A8FB5E10300F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E79005C-00C6-4E60-9B48-A8FB5E10300F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E79005C-00C6-4E60-9B48-A8FB5E10300F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E79005C-00C6-4E60-9B48-A8FB5E10300F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E79005C-00C6-4E60-9B48-A8FB5E10300F} = {B05A5F50-73B0-46D2-A4C6-91A3709BD592}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55EA457-CBBC-4128-865D-54FA2EAB88F7}
+	EndGlobalSection
+EndGlobal
